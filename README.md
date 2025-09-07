@@ -30,7 +30,3 @@ When I’m not coding, you’ll probably find me listening to music, brainstormi
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithNumb&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
-
-
-                 
-⭐ *“Eat, Code, Sleep, Repeat.”* – That’s the motto I follow while building.
