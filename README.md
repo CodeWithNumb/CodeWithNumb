@@ -32,4 +32,4 @@ When I’m not coding, you’ll probably find me listening to music, brainstormi
 </div>
 
                  
-                    ⭐ *“Eat, Code, Sleep, Repeat.”* – That’s the motto I follow while building.   
+- - ⭐ *“Eat, Code, Sleep, Repeat.”* – That’s the motto I follow while building.
